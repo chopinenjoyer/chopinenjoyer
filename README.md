@@ -48,13 +48,19 @@ liés à l’IA et à l’ingénierie logicielle.
 ## 📌 Projets
 
 🔹 **Agent IA de planification de repas**  
-→ Génération de recettes à partir d’ingrédients  
-→ Python, logique agent, prompts  
+- Génération de recettes à partir d’ingrédients  
+- Python, logique agent, prompts  
 
 🔹 **Projets Epitech**
 - Backend / Frontend
 - Docker & CI/CD
 - Projets orientés architecture logicielle
+
+---
+
+## 📌 Projets en cours
+
+🔹 **Mini-LLM pipeline**
 
 ---
 
