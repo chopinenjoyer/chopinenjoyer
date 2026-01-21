@@ -1,6 +1,7 @@
 # 👋 Salut c'est Fred
 
 je suis :
+
 🎓 Étudiant en informatique à Epitech Paris
 🤖 Spécialisation IA  
 🔍 À la recherche d’une alternance en IA / Data / Software Engineering  
