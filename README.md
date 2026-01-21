@@ -1,7 +1,8 @@
 # 👋 Salut c'est Fred
 
-🎓 Étudiant en informatique à Epitech  
-🤖 Spécialisation IA / Machine Learning  
+je suis :
+🎓 Étudiant en informatique à Epitech Paris
+🤖 Spécialisation IA  
 🔍 À la recherche d’une alternance en IA / Data / Software Engineering  
 
 ---
